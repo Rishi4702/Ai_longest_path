@@ -1,0 +1,110 @@
+For the file Test.txt with dijstra
+Following are longest distances from  auxilary source vertex which is : 10 and auxilary sink node : 9 
+1.97
+0.0037839 seconds
+=============================================================================================================================================
+For the file Test.txt the code wih topo sort
+Following are longest distances from  auxilary source vertex which is : 10 and auxilary sink node : 9 
+
+This is the max time: 1.97
+3.548E-4 seconds
+=============================================================================================================================================
+For the file Test2 with dijstra
+Following are longest distances from  auxilary source vertex which is : 11 and auxilary sink node : 10 
+1.73
+1.069E-4 seconds
+=============================================================================================================================================
+For the file Test2 the code wih topo sort
+Following are longest distances from  auxilary source vertex which is : 11 and auxilary sink node : 10 
+
+This is the max time: 1.73
+6.44E-5 seconds
+=============================================================================================================================================
+For the file test_large.dag with dijstra
+Following are longest distances from  auxilary source vertex which is : 344 and auxilary sink node : 343 
+29.52727333677887
+0.0617088 seconds
+=============================================================================================================================================
+For the file test_large.dag the code wih topo sort
+Following are longest distances from  auxilary source vertex which is : 344 and auxilary sink node : 343 
+
+This is the max time: 29.52727333677887
+0.008804 seconds
+=============================================================================================================================================
+For the file test_large_sparse.dag with dijstra
+Following are longest distances from  auxilary source vertex which is : 360 and auxilary sink node : 359 
+21.253554903090972
+0.0025341 seconds
+=============================================================================================================================================
+For the file test_large_sparse.dag the code wih topo sort
+Following are longest distances from  auxilary source vertex which is : 360 and auxilary sink node : 359 
+
+This is the max time: 21.253554903090972
+0.0018613 seconds
+=============================================================================================================================================
+For the file test_medium.dag with dijstra
+Following are longest distances from  auxilary source vertex which is : 157 and auxilary sink node : 156 
+18.218280525455505
+0.0030063 seconds
+=============================================================================================================================================
+For the file test_medium.dag the code wih topo sort
+Following are longest distances from  auxilary source vertex which is : 157 and auxilary sink node : 156 
+
+This is the max time: 18.218280525455505
+0.0015258 seconds
+=============================================================================================================================================
+For the file test_medium_sparse.dag with dijstra
+Following are longest distances from  auxilary source vertex which is : 256 and auxilary sink node : 255 
+15.680812285842553
+0.0041928 seconds
+=============================================================================================================================================
+For the file test_medium_sparse.dag the code wih topo sort
+Following are longest distances from  auxilary source vertex which is : 256 and auxilary sink node : 255 
+
+This is the max time: 15.680812285842553
+0.0011718 seconds
+=============================================================================================================================================
+For the file test_small.dag with dijstra
+Following are longest distances from  auxilary source vertex which is : 13 and auxilary sink node : 12 
+1.6176527184423595
+4.5E-5 seconds
+=============================================================================================================================================
+For the file test_small.dag the code wih topo sort
+Following are longest distances from  auxilary source vertex which is : 13 and auxilary sink node : 12 
+
+This is the max time: 1.6176527184423595
+5.89E-5 seconds
+=============================================================================================================================================
+For the file test_small_sparse.dag with dijstra
+Following are longest distances from  auxilary source vertex which is : 9 and auxilary sink node : 8 
+1.5383073446920403
+3.4E-5 seconds
+=============================================================================================================================================
+For the file test_small_sparse.dag the code wih topo sort
+Following are longest distances from  auxilary source vertex which is : 9 and auxilary sink node : 8 
+
+This is the max time: 1.5383073446920403
+4.18E-5 seconds
+=============================================================================================================================================
+For the file test_xlarge.dag with dijstra
+Following are longest distances from  auxilary source vertex which is : 728 and auxilary sink node : 727 
+39.979429568194575
+0.25372 seconds
+=============================================================================================================================================
+For the file test_xlarge.dag the code wih topo sort
+Following are longest distances from  auxilary source vertex which is : 728 and auxilary sink node : 727 
+
+This is the max time: 39.979429568194575
+0.0091206 seconds
+=============================================================================================================================================
+For the file test_xlarge_sparse.dag with dijstra
+Following are longest distances from  auxilary source vertex which is : 679 and auxilary sink node : 678 
+29.27759002590238
+0.0036946 seconds
+=============================================================================================================================================
+For the file test_xlarge_sparse.dag the code wih topo sort
+Following are longest distances from  auxilary source vertex which is : 679 and auxilary sink node : 678 
+
+This is the max time: 29.27759002590238
+0.0016217 seconds
+=============================================================================================================================================
